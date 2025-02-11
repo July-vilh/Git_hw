@@ -1,0 +1,1 @@
+test automation on JS, TS; Git; Playwright; Docker
